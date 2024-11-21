@@ -3,7 +3,7 @@ Volumetric neural deformable models for 3D regional heart wall motion recovery
 
 ## Demo 1
 The following video shows simulated deforming left ventricle myocardium wall meshes across a full cardiac cycle.  
-<div align=center><img width="400" height="400" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/tree/main/Simulation_Example/Mesh/simulation_mesh.gif"/></div>
+<div align=center><img width="400" height="400" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Mesh/simulation_mesh.gif"/></div>
 <div align=center><img width="820" height="174.5" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Cardiac_cycle_with_wall_shapes.png"/></div>
 
 ## Demo 2
