@@ -14,5 +14,5 @@ The following videoes show the apparent Lagrangian motion sequences on SAX apica
 
 ## Demo 3
 The following videoes show the results of 3D regional heart wall motion recovery by volumetric neural deformable models. 
-<div align=center><img width="400" height="400" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/3D_Regional_Wall_Motion_Recovery_Example/supp_fig3_20_frames.gif"/></div>
+<div align=center><img width="750" height="250" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/3D_Regional_Wall_Motion_Recovery_Example/supp_fig3_20_frames.gif"/></div>
 
