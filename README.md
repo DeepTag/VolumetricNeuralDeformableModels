@@ -13,6 +13,6 @@ The following videoes show the apparent Lagrangian motion sequences on SAX basal
 
 
 ## Demo 3
-The following videoes in the first row show the results of 3D regional heart wall motion recovery by volumetric neural deformable models. The second row shows the ground truth deforming heart wall meshes. The first column shows the SPAMM datapoints on the SAX and LAX views. From left to right, we show 5 layers of the heart wall, ranging from epicardial surface to endocardial surface.
+The following videoes in the first row show the results of 3D regional heart wall motion recovery by volumetric neural deformable models. The second row shows the ground truth deforming heart wall meshes. The first column shows the SPAMM datapoints on the SAX and LAX views. Starting from the second column, we show 5 layers of the heart wall, ranging from epicardial surface to endocardial surface.
 <div align=center><img width="750" height="249.5" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/3D_Regional_Wall_Motion_Recovery_Example/supp_fig3_20_frames.gif"/></div>
 
