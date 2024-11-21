@@ -2,7 +2,9 @@
 This is the project page of volumetric neural deformable models (vNDMs).
 
 ## Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.
-We proposed a novel volumetric neural deformable model (vNDM) to recover the 3D regional heart wall motion from multi-planar tagged MRI.
+We proposed a novel volumetric neural deformable model (vNDM) to recover the 3D regional heart wall motion from multi-planar tagged MRI. Our vNDMs represent heart wall geometry and motion through a set of low-dimensional global deformation parameter functions and a diffeomorphic point flow regularized local deformation field.
+To learn such global and local deformation for 2D apparent motion mapping to 3D true motion, we design a hybrid point transformer, which incorporates both point cross-attention and self-attention mechanisms.
+While use of point cross-attention can learn to fuse 2D apparent motion cues into material point true motion hints, point self-attention hierarchically organised as an encoder-decoder structure can further learn to refine these hints and map them into 3D true motion.
 <div align=center><img width="820" height="221" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/vNDM.png"/></div>
 
 ## Demo 1
