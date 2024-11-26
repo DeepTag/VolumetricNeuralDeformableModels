@@ -1,5 +1,5 @@
 # VolumetricNeuralDeformableModels
-This is the project page of volumetric neural deformable models (vNDMs).
+This is the project page of volumetric neural deformable models (vNDMs) [[arXiv](https://arxiv.org/abs/2411.15233)].
 
 ## Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.
 We proposed a novel volumetric neural deformable model (vNDM) to recover the 3D regional heart wall motion from multi-planar tagged MRI. Our vNDMs represent heart wall geometry and motion through a set of low-dimensional global deformation parameter functions and a diffeomorphic point flow regularized local deformation field.
