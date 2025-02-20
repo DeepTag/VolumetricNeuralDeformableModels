@@ -10,7 +10,7 @@ While use of point cross-attention can learn to fuse 2D apparent motion cues int
 ## Demo 1
 The following video shows simulated deforming left ventricle myocardium wall meshes across a full cardiac cycle.  
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Mesh/simulation_mesh.gif"/></div>
-<div align=center><img width="820" height="176" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Mesh/cardiac_cycle.png"/></div>
+<div align=center><img width="820" height="175.3" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Mesh/mesh_cardiac_cycle.png"/></div>
 
 ## Demo 2
 The following videoes show the apparent Lagrangian motion sequences on SAX basal/middle/apical views (looking from base to apex) and LAX 2ch/3ch/4ch views. 
