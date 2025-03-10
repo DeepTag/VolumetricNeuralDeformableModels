@@ -22,7 +22,7 @@ The following videoes in the first row show the 3D regional heart wall motion re
 <div align=center><img width="820" height="272.8" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/3D_Regional_Wall_Motion_Recovery_Example/supp_fig3_20_frames.gif"/></div>
 
 ## Demo 4
-The following video and figure show the 3D regional endocardial heart wall motion recovery results from 2D real tagged cine MRI stacks by volumetric neural deformable models. 
+The following video and figure show the 3D regional endocardial heart wall motion recovery results from real 2D tagged cardiac cine MRI stacks by volumetric neural deformable models. Note the complex back-and-forth twisting motion patterns at the basal wall region.
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Real_Tagged_Cine_MRI_Results/5_recon_endocardial_wall.gif"/></div>
 <div align=center><img width="820" height="204.5" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Real_Tagged_Cine_MRI_Results/recon_endo_regional_motion_cycle.png"/></div>
 
